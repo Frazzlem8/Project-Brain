@@ -9,7 +9,7 @@ This toolkit uses a Python backend powered by Whisper, MoviePy, and Ollama for t
 ## 🚀 Demo
 
 > 📹 **Watch the video walkthrough**  
-[https://youtu.be/pFXHBmLxM_Q](https://youtu.be/pFXHBmLxM_Q)
+[![Watch the demo](https://img.youtube.com/vi/pFXHBmLxM_Q/hqdefault.jpg)](https://youtu.be/pFXHBmLxM_Q)
 
 
 ---
