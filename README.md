@@ -4,6 +4,8 @@ Turn long YouTube videos into high-quality, engaging Shorts — automatically.
 
 This toolkit uses a Python backend powered by Whisper, MoviePy, and Ollama for transcription, clipping, and AI-generated metadata, and a sleek React + Tailwind frontend for control and monitoring.
 
+![Alt text](./images/thumbnail.png)
+
 ---
 
 ## 🚀 Demo
